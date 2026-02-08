@@ -1,1 +1,2 @@
-# Amazon__add_TO_cart_clone
+# Amazon_cart_clone
+This is Amazon Add to cart clone.
